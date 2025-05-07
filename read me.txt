@@ -1,0 +1,76 @@
+Churn = customer still with us or not  ( yes= customer have left the service, no= customer still with the service )  
+
+step 1 
+the total charge is in object (strings) form but it should be in integer form. convert into integers form. 
+
+# question 
+q: why in object form ?
+ a: because those customer's tenure time is zero(0), their total amount is zero (0).  
+
+#solution 
+q: what will we do ?
+a: first we convert this into integer value because total amount should be payment able and its will in form of money. 
+
+Step:2
+q: how many people churn out and how many male and female turn out
+  
+a: 5174 are no and 1869 yes( in percentage Yes= 26.5%, No= 73.5%), there is no such difference between male and female.
+
+q: how many number customer by cityzenship
+a: 5901 is no for and 1142 for yes 
+
+q: how many customar churn by citizenship status 
+a: in not senoir citizen- 76.4% = no, and 23.6% = yes, for senoir citizen - 58.3% = no, 41.7%= yes.
+
+q: what is the distribution of citizen 
+a: 16.2% are senior citizen and 83.8% are not senior citizen
+
+observation:
+people who have used our services for a long time have stayed and people who have used our services for  1 or 2 months have churned. month to month customers 57.3% are no and 42.7% are yes. for one year 88.7% are no and 11.3% are yes. for two years 97.2% are no and 2.8% are yes. 
+
+for payment method: electronic check 54.7% are no and 45.3% are yes. for mailed check 80.9% are no and 19.1% are yes. for bank transfer (automatic) are 83.3% are no and a6.7% are yes. for credit card (automatic) 84.8% are no and 15.2% are yes. 
+
+for internet service: for fiber optic 41.9% are yes , for DSL 19% are yes , for no service  7.4% are yes. 
+for fiber optic 58.1% are no , for DSL 81% are no , for no service 92.6% are no.
+
+for online security :  no internet service 92.6% are no and 7.4% are yes. 
+taking online security are 85.4% are no and 14.6% are yes . 
+not taking online security are 58.2% are no and 41.8% are yes.
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
